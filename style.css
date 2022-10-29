@@ -114,8 +114,9 @@ button:hover {
 }
 
 @media (min-width: 900px) {
+
   body {
-    padding: 12rem 0 0 0;
+    padding: 7rem 0;
   }
   main {
     display: flex;
@@ -139,5 +140,6 @@ button:hover {
 
     display: flex;
     justify-content: space-evenly;
+    
   }
 }
